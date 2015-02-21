@@ -12,3 +12,5 @@ UCI HAR Dataset/ - directory with extracted data from the above zip file.
 * Output of analysis is saved into "ds_avg.txt" file and kept inside ds_avg vriable in R environment.
 
 * To run script, open it in Rstudio and run it.
+
+* For explanation of output file structure (columns), please refer to CodeBook.md
