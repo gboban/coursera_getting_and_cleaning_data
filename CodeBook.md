@@ -1,6 +1,6 @@
 # Code Book for data set produced by the run_analysis.R script provided in this repository.
 
-Resulting data set contains average measurements for test subject and activity.
+Resulting data set contains average measurements for test subject and activity calculated on columns containing mean and standerad deviation values. For more information about data, please refer to http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 Columns:
 * subject - test subject (volunteer) - number coded 1-30
