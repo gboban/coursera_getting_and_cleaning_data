@@ -2,6 +2,10 @@
 
 Resulting data set contains average measurements for test subject and activity calculated on columns containing mean and standerad deviation values. For more information about data, please refer to http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
+Original data is available at: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
+Measured values are normalised and bound to [-1, 1] interval.
+
 Columns:
 * subject - test subject (volunteer) - number coded 1-30
 * activity - activity type for which measurement is made (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
