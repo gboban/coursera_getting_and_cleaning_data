@@ -1,1 +1,2 @@
-# coursera_getting_and_cleaning_data
+# www.coursera.org
+## Getting and Cleaning Data course project
